@@ -1,7 +1,8 @@
-/* removes browser preset margins and padding to entire page */
+/* removes browser preset style variables to entire page */
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
    /* gives body text and font a style */
@@ -38,4 +39,24 @@ header nav ul li a{
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+/* Changes the layout and style of footer */
+footer{
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+footer h2{
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+footer div{
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+footer a{
+    color: #024e76;
 }
