@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://wadep23.github.io/run-buddy/
 
 ## Contributions
 Made with ❤️ by Wade Facer
+
+### ©️2019 Run Buddy, Inc
